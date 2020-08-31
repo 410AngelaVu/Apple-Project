@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.main-layout {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+}
+
+.image-container-1 {
+	grid-column: 1/-1;
+	grid-row: 1/2;
+}
+
+.image-container-2 {
+	grid-column: 1/2;
+	grid-row: 2/3;
+}
+
+.image-container-3 {
+	grid-column: 2/3;
+	grid-row: 2/3;
+}
+
+.image-container-4 {
+	grid-column: 3/4;
+	grid-row: 2/3;
+}
+
+.image-container-4 {
+	grid-column: 4/5;
+	grid-row: 2/3;
+} 
