@@ -145,3 +145,41 @@
 .text-container-a:hover {
 	text-decoration: underline;
 }
+
+footer {
+	width: 980px;
+	height: 90px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+
+}
+
+.container-footer-1 {
+	width: 480px; 
+	font-size: 12px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	color: #6E6E84;
+
+}
+
+.container-footer-2 {
+	width: 500px;
+	margin-top: 20px;
+	font-size: 12px;
+	text-align: right;
+}
+
+.footer-a {
+	font-size: 12px;
+	text-decoration: none;
+	color: #0096DA;
+}
+
+.footer-a:hover{
+	text-decoration: underline;
+}
+
+
