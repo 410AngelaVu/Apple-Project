@@ -12,7 +12,7 @@ This project is clone of Apple Home Page. The layout was made with flex and grid
 
 ## Live Demo
 
-[Live Demo Link](....)
+[Live Demo Link](https://410angelavu.github.io/Apple-Project/)
 
 Prerequisites - Chrome browser
 
